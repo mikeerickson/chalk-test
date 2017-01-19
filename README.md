@@ -1,14 +1,16 @@
 Reproducible Steps
 
-1. clone 
-	
+1. clone
+   - `$ git clone https://github.com/mikeerickson/chalk-test`
 2. npm install (install default dependencies)
    - This will install `chalk 1.1.3`
-3. Build 
+3. Build
    - `npm run build`
 4. All is good
-5. `npm install chalk/chalk#256-truecolor`
-6. Build `npm run build`
+5. Install chalk update
+   - `npm install chalk/chalk#256-truecolor`
+6. Build Again
+   - `npm run build`
 
 You should now see the error
 
