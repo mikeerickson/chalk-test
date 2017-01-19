@@ -1,4 +1,4 @@
-Reproducible Steps
+### Reproducible Steps
 
 1. clone
    - `$ git clone https://github.com/mikeerickson/chalk-test`
@@ -19,3 +19,5 @@ ERROR in bundle.js from UglifyJs
 SyntaxError: Unexpected token: operator (>) [./~/ansi-styles/index.js:4,0]
  ~/documents/projects/dev/litterbox/es6 
 ```
+
+If you would like to reach me via email, that is fine by me (see my repo contact information)
